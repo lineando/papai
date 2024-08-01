@@ -1,9 +1,9 @@
 body {
-    background-color: black; /*Pode escolher outra cor se quiser*/
+    background-color: white;
   }
   
   h1 {
-    color: white; /*Pode escolher outra cor se quiser*/
+    color: black; 
     text-align: center;
   }
   
